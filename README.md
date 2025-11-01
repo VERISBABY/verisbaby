@@ -18,12 +18,6 @@
 ![Pytorch](https://img.shields.io/badge/pytorch-%23D42029.svg?style=for-the-badge&logo=pytorch&color=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<p>---</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Draw+Diagram+with+EdrawMax:+UPDATING....&color=37c7c7&font=Courier)](https://git.io/typing-svg)
-
-<p>---</p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CONNECT+WITH+ME;CLICK+THE+ICON+TO+GO&color=e38e27&font=Courier)](https://git.io/typing-svg)
 <div align="left">
   <a href="https://www.linkedin.com/in/verisbaby/" target="blank">
@@ -39,7 +33,7 @@
 
 <p>---</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=VERISBABY'S+GITHUB+VISITORS&color=eda8ce&font=Courier)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=VERISBABY'S+GITHUB+VISITORS&color=eda8ce&font=Courier)]
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=VERISBABY&label=Profile%20Views&color=ff69b4&style=flat-square" alt="VERISBABY" />
 </div>
