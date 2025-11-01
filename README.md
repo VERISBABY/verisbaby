@@ -32,11 +32,4 @@
 </div>
 
 <p>---</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=VERISBABY'S+GITHUB+VISITORS&color=eda8ce&font=Courier)]
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=VERISBABY&label=Profile%20Views&color=ff69b4&style=flat-square" alt="VERISBABY" />
-</div>
-
-<img src="https://profile-counter.glitch.me/VERISBABY/count.svg" alt="hit counter" align="left">
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=VERISBABY&color=blueviolet)
