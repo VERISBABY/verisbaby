@@ -32,4 +32,9 @@
 </div>
 
 <p>---</p>
-![Profile Views](https://komarev.com/ghpvc/?username=VERISBABY&color=blueviolet)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=VERISBABY'S+GITHUB+VISITORS&color=eda8ce&font=Courier)](https://git.io/typing-svg)
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=VERISBABY&label=Visitors&color=ffaec9&style=for-the-badge" alt="VERISBABY profile views"/>
+</div>
+
