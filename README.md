@@ -17,6 +17,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/pytorch-%23D42029.svg?style=for-the-badge&logo=pytorch&color=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Draw Diagrams](https://img.shields.io/badge/Draw%20Diagrams-(EdrawMax%2C%20Lucid)-8A2BE2?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CONNECT+WITH+ME;CLICK+THE+ICON+TO+GO&color=e38e27&font=Courier)](https://git.io/typing-svg)
 <div align="left">
