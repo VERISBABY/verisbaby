@@ -1,5 +1,3 @@
-UPDATING....
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MY+SKILLS&color=805599&font=Courier)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,6 +17,11 @@ UPDATING....
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/pytorch-%23D42029.svg?style=for-the-badge&logo=pytorch&color=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+<p>---</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Draw+Diagram+with+EdrawMax:+UPDATING....&color=37c7c7&font=Courier)](https://git.io/typing-svg)
+
 <p>---</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CONNECT+WITH+ME;CLICK+THE+ICON+TO+GO&color=e38e27&font=Courier)](https://git.io/typing-svg)
@@ -33,9 +36,13 @@ UPDATING....
     <img src="https://img.icons8.com/clouds/60/000000/youtube-play.png" alt="verisbaby-youtube"/>
   </a>
 </div>
+
 <p>---</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=VERISBABY'S+GITHUB+VISITORS&color=eda8ce&font=Courier)](https://git.io/typing-svg)
 <div align="left">
+  <img src="https://komarev.com/ghpvc/?username=VERISBABY&label=Profile%20Views&color=ff69b4&style=flat-square" alt="VERISBABY" />
+</div>
+
 <img src="https://profile-counter.glitch.me/VERISBABY/count.svg" alt="hit counter" align="left">
 </div>
