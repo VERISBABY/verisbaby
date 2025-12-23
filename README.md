@@ -21,11 +21,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CONNECT+WITH+ME;CLICK+THE+ICON+TO+GO&color=e38e27&font=Courier)](https://git.io/typing-svg)
 <div align="left">
-  <a href="https://www.linkedin.com/in/verisbaby/" target="blank">
-    <img src="https://img.icons8.com/clouds/60/000000/facebookg SVG](https://readme-typing-svg.herokuapp.com/?lines=MY+SKILLS&color=805599&font=Courier)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CONNECT+WITH+ME;CLICK+THE+ICON+TO+GO&color=e38e27&font=Courier)](https://git.io/typing-svg)
-<div align="left">
   <a href="https://www.facebook.com/verisbaby/" target="blank">
     <img src="https://img.icons8.com/clouds/60/000000/facebook.png" alt="verisbaby facebook" />
   </a>
